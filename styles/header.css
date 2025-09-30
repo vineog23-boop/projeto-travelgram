@@ -40,7 +40,7 @@ width: 280px;
   gap: 8px;
 }
 
-#profile img {
+.image-pic {
   width: 176px;
   height: 176px;
   border-radius: 50%;
